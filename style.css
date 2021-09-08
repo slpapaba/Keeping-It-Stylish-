@@ -1,0 +1,36 @@
+.redbox{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}
+.bluebox{
+  background-color: blue;
+  height: 400px;
+  width: 300px;
+  border: 2px solid red;
+}
+.greenbox{
+  background-color: green;
+  height: 600px;
+  width: 250px;
+  border radius: 6px;
+}
+.style{
+margin:0;
+ padding:0;
+background-color:rebeccapurple;
+}
+.Firstone{
+  text-align: center;
+  width: 400px;
+  color: white;
+  top: -23px;
+  position: relative;
+}
+.Secondone{
+  position: relative;
+  top: -50px;
+  text-align: right;
+  width: 800px;
+  color: orange;
+}
